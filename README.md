@@ -1,4 +1,4 @@
-# NVIDIA-Share-Control-Panel
+# NVIDIA Share Control Panel
 
 You can download `.exe` file at [Releases](https://github.com/BadCoder1337/NVIDIA-Share-Control-Panel/releases) section
 
